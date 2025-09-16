@@ -2,7 +2,7 @@
 In this repository you will find the references of the work "Reactive sputtered P-type CuxOy thin film semiconductor for CuxOy/c-Si heterojuntion diode application"
 
 
-1. Sahoo, S., Wickramathilaka, K. Y., Njeri, E., Silva, D., & Suib, S. L. (2024). A review on transition metal oxides in catalysis. Frontiers in chemistry, 12, 1374878. (**DOI** 10.3389/fchem.2024.1374878)
+1. Sahoo, S., Wickramathilaka, K. Y., Njeri, E., Silva, D., & Suib, S. L. (2024). A review on transition metal oxides in catalysis. Frontiers in chemistry, 12, 1374878. (https://doi.org/10.3389/fchem.2024.1374878)
 2. Lany, S. (2015). Semiconducting transition metal oxides. Journal of Physics: Condensed Matter, 27(28), 283203. (**DOI** 10.1088/0953-8984/27/28/283203)
 3. Ait Hssi, A., Atourki, L., Labchir, N., Ouafi, M., Abouabassi, K., Elfanaoui, A., ... & Bouabid, K. (2020). Optical and dielectric properties of electrochemically deposited p-Cu2O films. Materials Research Express, 7(1), 016424. (**DOI** 10.1088/2053-1591/ab6772)
 4. He, H. (2020). Metal oxide semiconductors and conductors. In Solution processed metal oxide thin films for electronic applications (pp. 7-30). Elsevier. (https://doi.org/10.1016/B978-0-12-814930-0.00002-5)
