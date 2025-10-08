@@ -26,3 +26,4 @@ In this repository you will find the references of the work "Reactive sputtered 
 22. Chen, N. C., Tseng, C. Y., Chiu, A. P., Shih, C. F., & Chang, P. H. (2004). Application of modified transmission line model to measure p-type GaN contact. Applied physics letters, 85(25), 6086-6088. (https://doi.org/10.1063/1.1835993)
 23. Kalinina, M. V., Moshnikov, V. A., Tikhonov, P. A., Tomaev, V. V., & Mikhailichenko, S. V. (2003). Temperature dependence of the resistivity for metal-oxide semiconductors based on tin dioxide. Glass physics and chemistry, 29(4), 422-427. (https://doi.org/10.1023/A:1025189330183)
 24. Smith, B. L., & Rhoderick, E. H. (1971). Schottky barriers on p-type silicon. Solid-State Electronics, 14(1), 71-75. (https://doi.org/10.1016/0038-1101(71)90049-9)
+25. Khadyair, A. A., Wanas, A. H., & Zije, B. A. (2018). Study the Structural and Optical Properties of CuO Thin films Prepared by dc Magnetron Sputtering. Journal of Kufa-Physics, 10(2), 61-67.
